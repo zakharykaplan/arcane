@@ -6,7 +6,7 @@ title: Arcane
 
 Arcane is a modern homepage inspired by the classic web iconography.
 
-<!-- ![arcane screenshot](doc/screenshot.png) -->
+![arcane screenshot](doc/screenshot.png)
 
 ## Contents
 
