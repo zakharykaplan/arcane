@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://example.com"
 
-# The site title and description; used in feeds by default.
+# The site title and description; used in feeds by default
 title = "Arcane"
 description = """
  Write an awesome description for your new site here. You can edit this
@@ -12,10 +12,10 @@ description = """
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
-# When set to "true", the generated HTML files are minified.
+# When set to "true", the generated HTML files are minified
 minify_html = true
 
-# When set to "true", a feed is automatically generated.
+# When set to "true", a feed is automatically generated
 generate_feed = true
 
 # Whether to build a search index to be used later on by a JavaScript library
@@ -41,7 +41,7 @@ taxonomies = [
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 
-# The theme to use for code highlighting.
+# The theme to use for code highlighting
 highlight_theme = "css"
 highlight_themes_css = [
   { theme = "base16-ocean-dark",  filename = "assets/css/syntax/dark.css" },
